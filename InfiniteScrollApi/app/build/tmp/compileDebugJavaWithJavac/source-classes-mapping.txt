@@ -1,0 +1,19 @@
+com/elthobhy/infinitescrollapi/databinding/ItemLoadingBinding.java
+ com.elthobhy.infinitescrollapi.databinding.ItemLoadingBinding
+com/elthobhy/infinitescrollapi/databinding/ItemMovieBinding.java
+ com.elthobhy.infinitescrollapi.databinding.ItemMovieBinding
+com/elthobhy/infinitescrollapi/MainActivity.java
+ com.elthobhy.infinitescrollapi.MainActivity
+ com.elthobhy.infinitescrollapi.MainActivity$1
+com/elthobhy/infinitescrollapi/adapter/MovieAdapter.java
+ com.elthobhy.infinitescrollapi.adapter.MovieAdapter
+ com.elthobhy.infinitescrollapi.adapter.MovieAdapter$MovieViewHolder
+ com.elthobhy.infinitescrollapi.adapter.MovieAdapter$ProgressViewHolder
+com/elthobhy/infinitescrollapi/BuildConfig.java
+ com.elthobhy.infinitescrollapi.BuildConfig
+com/elthobhy/infinitescrollapi/model/MovieResponse.java
+ com.elthobhy.infinitescrollapi.model.MovieResponse
+com/elthobhy/infinitescrollapi/databinding/ActivityMainBinding.java
+ com.elthobhy.infinitescrollapi.databinding.ActivityMainBinding
+com/elthobhy/infinitescrollapi/model/Movie.java
+ com.elthobhy.infinitescrollapi.model.Movie
